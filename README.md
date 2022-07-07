@@ -1,5 +1,6 @@
 ### Hi there👋  I'm Abraha
-![image](https://user-images.githubusercontent.com/75738563/177790388-de455529-3724-4dbb-898b-be0ff10df7b6.png)
+![image](https://user-images.githubusercontent.com/75738563/177790717-fd93d05b-0756-4f45-8933-221f97df6fb3.png)
+
 
 
 Here are some ideas to get you started:
