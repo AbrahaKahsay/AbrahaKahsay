@@ -7,8 +7,8 @@
 
 #### Check few things about me:
 
-- 🔭 I’m currently working on Web Pack
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on web development.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for new opportunities.
 - 💬 Ask me about anything
