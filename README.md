@@ -7,11 +7,10 @@
 
 #### Check few things about me:
 
-- 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on back end web development.
+- 🌱 I’m currently learning Ruby.
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for new opportunities.
-- 💬 Ask me about anything
 - 📫 How to reach me: abrahak81@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: The average adult human brain has the ability to store the equivalent of 2.5 million gigabytes digital memory.
