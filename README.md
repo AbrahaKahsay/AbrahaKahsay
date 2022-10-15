@@ -18,7 +18,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=75738563+AbrahaKahsay&left_color=gray&right_color=blue)
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
