@@ -1,9 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <div align="center">
 <h2> Hi there👋, I'm Abraha.</h2>
 </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abraha-kahsay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -49,6 +50,5 @@
 ### :fire: My GitHub stats:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AbrahaKahsay&count_private=true&theme=tokyonight&showicons=true)]() 
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahaKahsay&langs_count=5&theme=tokyonight)]()
 
