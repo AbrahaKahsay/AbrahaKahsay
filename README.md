@@ -44,7 +44,6 @@
 - 🔭 I’m currently working on back end web development.
 - 🌱 I’m currently learning Ruby on Rails.
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for new opportunities.
 - 📫 How to reach me: abrahak81@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: The average adult human brain has the ability to store the equivalent of 2.5 million gigabytes digital memory.
