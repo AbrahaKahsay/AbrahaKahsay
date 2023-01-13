@@ -51,5 +51,7 @@
 ### :fire: My GitHub stats:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AbrahaKahsay&count_private=true&theme=tokyonight&showicons=true)]() 
+[![Anurag's GitHub stats](https://github-readme-stats-brundabharadwaj.vercel.app/api?username=AbrahaKahsay
+)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahaKahsay&langs_count=5&theme=tokyonight)]()
 
