@@ -49,7 +49,6 @@
 - ⚡ Fun fact: The average adult human brain has the ability to store the equivalent of 2.5 million gigabytes digital memory.
 
 ### :fire: My GitHub stats:
-![My Github stats](https://github-readme-stats.vercel.app/api?username=AbrahaKahsay&theme=tokyonight&show_icons=true&count_private=true)
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AbrahaKahsay&count_private=true&theme=tokyonight&showicons=true)]() 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahaKahsay&langs_count=5&theme=tokyonight)]() -->
