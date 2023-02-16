@@ -41,7 +41,7 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently working on back end web development.
+- 🔭 I’m currently working on sharpening my Data structures and Algorithms (DSA) skills.
 - 🌱 I’m currently learning Ruby on Rails.
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: abrahak81@gmail.com
