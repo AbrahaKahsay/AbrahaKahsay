@@ -41,11 +41,11 @@
 ### :man_technologist: About Me :
 
 - 🔭 I’m currently working on sharpening my Data structures and Algorithms (DSA) skills.
-- 🌱 I’m currently learning Ruby on Rails.
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: abrahak81@gmail.com
+- 🌱 I’m currently learning web development.
+- 👯 I’m looking to collaborate on JavaScript, React-Redux, and Ruby on Rails Projects.
+- 📫 How to reach me: Email: abrahak81@gmail.com, Linkedin: www.linkedin.com/in/abraha-kahsay
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: The average adult human brain has the ability to store the equivalent of 2.5 million gigabytes digital memory.
+- ⚡ Fun fact: Keep it Simple.
 
 ### :fire: My GitHub stats:
 
